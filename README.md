@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacqueline Suling
-- 👀 I’m a 3rd year Software Engineering student 
+- 👀 I’m a final year Software Engineering student 
 - 🌱 I’m currently studying at Universiti Malaysia Sarawak (UNIMAS)
-- 💞️ I’m willing to learn new things as much as i can
+- 💞️ I love to learn new things as much as i can
 - 📫 You can reach me through my email : jacqsuling@gmail.com
 
 <!---
